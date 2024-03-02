@@ -22,6 +22,7 @@
       ".local/share/direnv"
       ".config/chromium"
       ".mozilla"
+      ".cache/chromium"
       {
         directory = ".local/share/Steam";
         method = "symlink";
